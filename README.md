@@ -1,3 +1,11 @@
+## Important Note
+
+This is for basic NextJS and Firebase Integrations, on the frontend.
+
+To be edited and deployed on 
+
+![[Vercel](https://vercel.com)](public/vercel.svg)
+
 ## Getting Started
 
 First, add the firebase config variables in the `.env` file.
