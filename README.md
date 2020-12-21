@@ -4,7 +4,8 @@ This is for basic NextJS and Firebase Integrations, on the frontend.
 
 To be edited and deployed on 
 
-![[Vercel](https://vercel.com)](public/vercel.svg)
+[![Vercel](public/vercel.svg)](https://vercel.com) 
+
 
 ## Getting Started
 
